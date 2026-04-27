@@ -148,7 +148,7 @@ The system successfully:
 ## 🧑‍💻 Authors
 
 - Soha Niroomand  
-- Atina Atoukesh  
+- Atena Otoukesh  
 
 Farzanegan 1 High School, Tehran  
 
