@@ -152,8 +152,3 @@ The system successfully:
 
 Farzanegan 1 High School, Tehran  
 
----
-
-## 💬 In One Sentence
-
-A **smart IoT system for monitoring horse health in real-time using Arduino and mobile integration**.
